@@ -1,0 +1,1 @@
+export type ExcludeTypeFromArray<T extends any[], ToExclude> = Exclude<T[number], ToExclude>[];

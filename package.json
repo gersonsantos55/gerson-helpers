@@ -1,0 +1,11 @@
+{
+  "name": "gerson-helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"The code is my test\" && exit 1"
+  },
+  "author": "Gerson Dos Santos Nascimento",
+  "license": "ISC"
+}
